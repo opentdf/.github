@@ -10,11 +10,11 @@ This project and everyone participating in it is governed by the [Code of Conduc
 
 There are many ways to get our attention!
 
-* [Join our Slack channel][slack]
+* [Contribute to the local Discussion][discussion], found in the `Discussions` tab in this repository
 * [Submit a support ticket][support-ticket]
 * [Email us feedback][email-developers]
 
-[slack]: https://docs.google.com/forms/d/e/1FAIpQLSfCx5tSl9hGQSZ-H-ZIzNw6uWIPN3_HSpMtYssKQ9jytj9yQQ/viewform
+[discussion]: https://docs.github.com/en/discussions
 [support-ticket]: https://support.virtru.com/hc/en-us/requests/new?ticket_form_id=360001419954
 [email-developers]: mailto:developers@virtru.com
 

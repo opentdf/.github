@@ -1,10 +1,13 @@
 # openTDF
 
-## Helping to protect your data, everywhere
+## Protect Your Data. Control Your Keys. Build Your Future.
 
-The openTDF project is an open set of proposed standards, libraries, and
-services to support data protection using encryption and attribute based
-access control.
+The openTDF project is
+an open set of proposed standards, libraries, and services
+that allow you to enable Zero Trust protection
+across your ecosystem
+to ensure complete data protection
+and access control.
 
 ## Getting started
 

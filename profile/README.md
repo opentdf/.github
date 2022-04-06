@@ -37,8 +37,6 @@ To quickly set up your own local openTDF cluster, refer to
   * **Kas**: access control of the key using ABAC ([container image](https://github.com/opentdf/backend/pkgs/container/kas), [helm chart](https://github.com/opentdf/backend/pkgs/container/charts%2Fkas))
   * **Keycloak**: our Identity Provider (IdP) software ([container image](https://github.com/opentdf/backend/pkgs/container/keycloak))
     * **Keycloak Multi-arch Base**: we build a custom base image off of the upstream Keycloak image and Keycloak Helm chart - it is identical to the upstream image, just built for both arm64 and amd64 ([container image](https://github.com/opentdf/backend/pkgs/container/keycloak-multiarch-base))
-  * **Keycloak Bootstrap**: we use a Python wrapper around Keycloak's REST API to automatically configure Keycloak for Virtru's needs ([container image](https://github.com/opentdf/backend/pkgs/container/keycloak-bootstrap), [helm chart](https://github.com/opentdf/backend/pkgs/container/charts%2Fkeycloak-bootstrap))
-  * **Python Base**: TODO not sure how to describe ([container image](https://github.com/opentdf/backend/pkgs/container/python-base))
   * **Storage**: provides temporary credentials to upload a file to a S3 service ([helm chart](https://github.com/opentdf/backend/pkgs/container/charts%2Fstorage))
 
 ### Client Libraries

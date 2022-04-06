@@ -35,8 +35,6 @@ To quickly set up your own local openTDF cluster, refer to
   * **Claims**: reads the attributes that have been assigned to an entity ([container image](https://github.com/opentdf/backend/pkgs/container/claims), [helm chart](https://github.com/opentdf/backend/pkgs/container/charts%2Fclaims))
   * **Entitlements**: manages assignment of attributes to entities ([container image](https://github.com/opentdf/backend/pkgs/container/entitlements), [helm chart](https://github.com/opentdf/backend/pkgs/container/charts%2Fentitlements))
   * **Kas**: access control of the key using ABAC ([container image](https://github.com/opentdf/backend/pkgs/container/kas), [helm chart](https://github.com/opentdf/backend/pkgs/container/charts%2Fkas))
-  * **Keycloak**: our Identity Provider (IdP) software ([container image](https://github.com/opentdf/backend/pkgs/container/keycloak))
-    * **Keycloak Multi-arch Base**: we build a custom base image off of the upstream Keycloak image and Keycloak Helm chart - it is identical to the upstream image, just built for both arm64 and amd64 ([container image](https://github.com/opentdf/backend/pkgs/container/keycloak-multiarch-base))
   * **Storage**: provides temporary credentials to upload a file to a S3 service ([helm chart](https://github.com/opentdf/backend/pkgs/container/charts%2Fstorage))
 
 ### Client Libraries
@@ -45,3 +43,7 @@ To quickly set up your own local openTDF cluster, refer to
   * C++ [opentdf-client](https://conan.io/center/opentdf-client)
   * Javascript [@opentdf/client](https://github.com/opentdf/client-web/packages/1152758)
   * Node-based CLI [@opentdf/cli](https://github.com/opentdf/client-web/packages/1158071)
+
+### Extras
+  * **Keycloak**: custom build of our preferred identity provider ([container image](https://github.com/opentdf/backend/pkgs/container/keycloak))
+  * **Keycloak Multi-arch Base**: we build a custom base image off of the upstream Keycloak image and Keycloak Helm chart - it is identical to the upstream image, just built for both arm64 and amd64 ([container image](https://github.com/opentdf/backend/pkgs/container/keycloak-multiarch-base))

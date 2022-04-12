@@ -1,17 +1,17 @@
-# openTDF
+# OpenTDF
 
 ## Protect Your Data. Control Your Keys. Build Your Future.
 
-The openTDF project is
-an open set of proposed standards, libraries, and services
-that allow you to enable Zero Trust protection
+The OpenTDF project is
+an open set of standards, libraries, and services
+that allow you to enable zero-trust protection
 across your ecosystem
 to ensure complete data protection
 and access control.
 
 ## Getting started
 
-To quickly set up your own local openTDF cluster, refer to
+To quickly set up your own local OpenTDF cluster, refer to
 [our quickstart guide](https://github.com/opentdf/documentation/tree/main/quickstart).
 
 

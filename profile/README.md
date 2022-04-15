@@ -17,17 +17,26 @@ To quickly set up your own local OpenTDF cluster, refer to
 
 ## Repositories of Note
 
+* Specification
+  * [spec](https://github.com/opentdf/spec): TDF Schema and Protocol Specification. A high-level view of TDF.  
+
 * Services
   * [backend](https://github.com/opentdf/backend): Microservices to support ABAC for Key Access and data storage.
   * [frontend](https://github.com/opentdf/frontend): A Web front end for ABAC
 * Guides and Samples
   * [documentation](https://github.com/opentdf/documentation): Documentation of how to get going and how these all fit together in your projects
+
 * Client Libraries and Software
   * [client-cpp](https://github.com/opentdf/client-cpp): A native TDF3 and nanoTDF implementation
   * [client-web](https://github.com/opentdf/client-web): A nanoTDF (TDF3 coming soon) implmentation in JavaScript for web clients and NodeJS.
-  * [client-python](https://github.com/opentdf/client-python): Python library (wrapper for `client-cpp`)
 
 ## Releases
+
+4.15.22 | OpenTDF 0.9.0
+* Initial OpenTDF Release
+* Quickstart
+* Client Libraries: C++, web
+* ABAC 
 
 ### Services
 

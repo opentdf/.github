@@ -28,7 +28,7 @@ To quickly set up your own local OpenTDF cluster, refer to
 
 * Client Libraries and Software
   * [client-cpp](https://github.com/opentdf/client-cpp): A native TDF3 and nanoTDF implementation
-  * [client-web](https://github.com/opentdf/client-web): A nanoTDF (TDF3 coming soon) implmentation in JavaScript for web clients and NodeJS.
+  * [client-web](https://github.com/opentdf/client-web): A nanoTDF (TDF3 coming soon) implementation in JavaScript for web clients and NodeJS.
 
 ## Releases
 

@@ -18,7 +18,7 @@ To quickly set up your own local OpenTDF cluster, refer to
 ## Repositories of Note
 
 * Guides and Samples
-  * [opentdf](https://github.com/opentdf/opentdf): Introduction to OpenTDF, our implementation of it, examples, and instructions of how to get going and how these all fit together in your projects
+  * [opentdf](https://github.com/opentdf/opentdf): Introduction to OpenTDF, Quickstart, example applications, and documentation. Start here! 
 
 * Specification
   * [spec](https://github.com/opentdf/spec): TDF Schema and Protocol Specification. A high-level view of TDF.  

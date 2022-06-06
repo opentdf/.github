@@ -12,10 +12,13 @@ and access control.
 ## Getting started
 
 To quickly set up your own local OpenTDF cluster, refer to
-[our quickstart guide](https://github.com/opentdf/documentation/tree/main/quickstart).
+[our quickstart guide](https://github.com/opentdf/opentdf/tree/main/quickstart).
 
 
 ## Repositories of Note
+
+* Guides and Samples
+  * [opentdf](https://github.com/opentdf/opentdf): Introduction to OpenTDF, Quickstart, example applications, and documentation. Start here! 
 
 * Specification
   * [spec](https://github.com/opentdf/spec): TDF Schema and Protocol Specification. A high-level view of TDF.  
@@ -23,8 +26,6 @@ To quickly set up your own local OpenTDF cluster, refer to
 * Services
   * [backend](https://github.com/opentdf/backend): Microservices to support ABAC for Key Access and data storage.
   * [frontend](https://github.com/opentdf/frontend): A Web front end for ABAC
-* Guides and Samples
-  * [documentation](https://github.com/opentdf/documentation): Documentation of how to get going and how these all fit together in your projects
 
 * Client Libraries and Software
   * [client-cpp](https://github.com/opentdf/client-cpp): A native TDF and nanoTDF implementation

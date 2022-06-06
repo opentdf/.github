@@ -14,7 +14,7 @@ There are many ways to get our attention!
 * [Submit a new issue][support-ticket] in its respective repository (documentation & quickstart linked here)
 
 [discussion]: https://docs.github.com/en/discussions
-[support-ticket]: https://github.com/opentdf/documentation/issues
+[support-ticket]: https://github.com/opentdf/opentdf/issues
 
 ## How Can I Contribute?
 

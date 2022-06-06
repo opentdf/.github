@@ -31,14 +31,6 @@ To quickly set up your own local OpenTDF cluster, refer to
   * [client-cpp](https://github.com/opentdf/client-cpp): A native TDF and nanoTDF implementation
   * [client-web](https://github.com/opentdf/client-web): A nanoTDF implementation in JavaScript for web clients and NodeJS.
 
-## Releases
-
-4.15.22 | OpenTDF 0.9.0
-* Initial OpenTDF Release
-* Quickstart
-* Client Libraries: C++, web
-* ABAC 
-
 ### Services
 
   * **Attributes**: manages attributes with rules used in ABAC ([container image](https://github.com/opentdf/backend/pkgs/container/attributes), [helm chart](https://github.com/opentdf/backend/pkgs/container/charts%2Fattributes))

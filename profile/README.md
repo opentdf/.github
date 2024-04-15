@@ -1,15 +1,15 @@
 # OpenTDF
 
-## Protect Your Data. Control Your Keys. Build Your Future.
+OpenTDF is an open source system for implementing data centric security. It provides the basic services required to enable the definition, application, and enforcement of attribute based policies using the Zero Trust Data Format (ZTDF). ZTDF is an open standard that enables you to cryptographically bind attribute based access control (ABAC) policy to a data object so that the policy travels with the data wherever it goes.
 
-The OpenTDF project is a data-centric interoperability platform where access control policy travels with data, wherever it goes.
+OpenTDF builds upon a decade of experience at Virtru protecting data objects at scale using the Trusted Data Format for organizations of all sizes and across all industries.
 
 ## Getting started
-[Platform](https://github.com/opentdf/platform): Set up your own local OpenTDF platform. 
+[Platform](https://github.com/opentdf/platform): A platform that enables you to build data centric security into your applications. 
 
-[Specification](https://github.com/opentdf/spec): TDF Schema and Protocol Specification. ZTDF Compliant. 
+[Specification](https://github.com/opentdf/spec): The TDF schema and protocol specification, fully compliant with the Zero Trust Data Format (ZTDF). 
 
-[Admin CLI](https://github.com/opentdf/tructl): Interact with the features of OpenTDF via the command line, including setting up policy and enforcement options based on ABAC. 
+[CLI](https://github.com/opentdf/otdfctl): A command line experience for managing an OpenTDF platform instance. 
 
 
 

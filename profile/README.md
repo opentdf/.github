@@ -13,5 +13,7 @@ OpenTDF builds upon a decade of experience at Virtru protecting data objects at 
 
 [Specification](https://github.com/opentdf/spec): The TDF schema and protocol specification, fully compliant with the Trusted Data Format (ZTDF). 
 
+SDKs: Software Development Kits for managing policy, creating TDF protected objects, and making authorization decisions. Available in [Go](https://github.com/opentdf/platform/tree/main/sdk), [Java](https://github.com/opentdf/java-sdk), and [Javascript](https://github.com/opentdf/client-web).
+
 
 

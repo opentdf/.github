@@ -5,7 +5,7 @@ OpenTDF is an open source system for implementing data centric security. It prov
 OpenTDF builds upon a decade of experience at Virtru protecting data objects at scale using the Trusted Data Format for organizations of all sizes and across all industries.
 
 ## Getting started
-[Documentation](https://docs.opentdf.io)
+[Documentation](https://opentdf.io/introduction)
 
 [Platform](https://github.com/opentdf/platform): A platform that enables you to build data centric security into your applications. 
 
